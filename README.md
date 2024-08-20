@@ -21,7 +21,9 @@
 The app uses several packages to enhance its functionality:
 - **iconsax:** Search for better Icons
 - **provider:** For dependency injection and state management.
-- **animated_bottom_navigation_bar:** To style the drawer.
+- **animated_bottom_navigation_bar:** To style the bottom navigation bar.
+- **flutter_advanced_drawer:** To style the Drawer.
+
 
 Make sure to check the `pubspec.yaml` file for the full list of dependencies.
 
